@@ -2,7 +2,7 @@
 	"proxies": "socks4",
 	"thread": "200",
 	"webhook": {
-		"url": "Your Webhook",
+		"url": "https://discord.com/api/webhooks/951181245176500264/EoJ1-7aYwOy6x6zAHNkHE6l1xLpRsXiYsa_gwPrrU_slIBIAQYUkZeXVjuZ_hxvEHfwh",
 		"username": "Nitro Hits",
 		"avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
 	}
